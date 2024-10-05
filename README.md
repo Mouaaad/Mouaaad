@@ -2,7 +2,6 @@
 - 👀 I’m interested in computer engineering 
 - 🌱 I’m currently learning computer engineering 
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
 - 😄 Pronouns: MOCODE
 - ⚡ Fun fact: good coder
 
